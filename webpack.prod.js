@@ -32,7 +32,7 @@ module.exports = merge(common, {
     new MiniCssExtractPlugin(),
     new InjectManifest({
       swSrc: path.resolve(__dirname, 'src/scripts/sw.js'),
-      swDest: 'sw.bundle.js',
+      swDest: 'story-app-dicoding/sw.bundle.js',
     }),
   ],
 });
