@@ -1,3 +1,3 @@
-APP_URL=<url_aplikasi>
+APP_URL=<https://ikhsanasagaf.github.io/story-app-dicoding/#>
 
 MAP_SERVICE_API_KEY=<Hb4rLbShVKRq4l61Bq0s>

@@ -47,7 +47,7 @@ export async function registerServiceWorker() {
 
   try {
     const registration = await navigator.serviceWorker.register(
-      "/sw.bundle.js"
+      "/story-app-dicoding/sw.bundle.js'"
     );
     console.log("Service Worker Installed Successfully", registration);
   } catch (error) {
